@@ -3,6 +3,8 @@ h1 {
   color: #000;
   background-color: burlywood;
   margin: 10px;
+  width: 300px;
+  border-radius: 10px;
 }
 
 p {
